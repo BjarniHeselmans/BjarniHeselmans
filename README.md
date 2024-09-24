@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BjarniHeselmans
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Electronica-ICT @ PXL-Hasselt
+- 😄 Pronouns: He/Him
