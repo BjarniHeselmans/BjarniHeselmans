@@ -23,7 +23,7 @@
 ---
 
 ### 🤝 Let’s Connect  
-- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/bjarni-heselmans)). 
+- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/bjarni-heselmans).
 
 ---
 
