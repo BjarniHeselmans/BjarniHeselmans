@@ -1,26 +1,7 @@
-# 👋 Hi, I'm Bjarni Heselmans  
-
-🎓 Electronics-ICT student at [PXL University of Applied Sciences & Arts, Hasselt](https://www.pxl.be)  
-💻 Passionate about **software development, electronics, AI, and cybersecurity**  
-🌱 Constantly learning and experimenting with new technologies  
-🤖 Interested in **artificial intelligence, embedded systems, and secure software development**  
-
----
-
-### 🛠️ Tech Stack & Tools  
-- Programming: **C, C++, Java, Python, JavaScript**  
-- Web: **HTML, CSS, Docker, Php, Java**  
-- Tools: **Git, GitHub, VS Code, Arduino, Linux, Vivado, Twincat**  
-- Interests: **AI, Cybersecurity, IoT, Full-Stack Development**  
-
----
-
-### 📊 GitHub Statistics  
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BjarniHeselmans&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/BjarniHeselmans/github-readme-stats)  
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BjarniHeselmans&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/BjarniHeselmans/github-readme-stats)  
 
----
 
 ### 🤝 Let’s Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/bjarni-heselmans).
@@ -28,3 +9,20 @@
 ---
 
 ✨ Always curious about AI, security challenges, and open-source collaboration!  
+
+# 👋 Hi, I'm Bjarni Heselmans  
+I'm a student studying **Electronics-ICT** at **PXL in Hasselt**.
+
+# Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maurodebruyn123](https://www.linkedin.com/in/bjarni-heselmans/)) 
+
+---
+
+# Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat&logo=nVIDIA&logoColor=green) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi)
+
+---
+
+![](https://github-readme-stats.vercel.app/api?username=BjarniHeselmans&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=BjarniHeselmans&theme=shadow_red&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BjarniHeselmans&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
