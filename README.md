@@ -11,6 +11,6 @@ I'm a student studying **Electronics-ICT** at **PXL in Hasselt**.
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=BjarniHeselmans&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=BjarniHeselmans&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BjarniHeselmans&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=BjarniHeselmans&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=BjarniHeselmans&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BjarniHeselmans&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
