@@ -2,7 +2,7 @@
 I'm a student studying **Electronics-ICT** at **PXL in Hasselt**.
 
 # Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maurodebruyn123](https://www.linkedin.com/in/bjarni-heselmans/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bjarni-heselmans/)) 
 
 ---
 
